@@ -31,7 +31,7 @@
     <!--
     <Valve className="org.apache.catalina.valves.CometConnectionManagerValve" />
     -->
-    <Resource
+	<Resource
 		name="admin"
 		auth="Container"
 		type="javax.sql.DataSource"

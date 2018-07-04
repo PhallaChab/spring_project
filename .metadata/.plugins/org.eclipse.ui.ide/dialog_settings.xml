@@ -12,6 +12,9 @@
 		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
 		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="F:\java\n05_spring_data_rdbms_mybatis"/>
+			<item value="F:\eclipse-workspace\n05_spring_data_rdbms_mybatis"/>
+			<item value="F:\eclipse-workspace\spring_assignment"/>
 			<item value="F:\java"/>
 			<item value="F:\eclipse-workspace\tos_shopping"/>
 		</list>

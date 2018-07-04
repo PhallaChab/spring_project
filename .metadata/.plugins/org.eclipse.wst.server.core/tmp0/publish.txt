@@ -1,3 +1,4 @@
 #Tomcat publish data
-#Wed Jul 04 09:21:29 ICT 2018
-org.eclipse.jst.jee.server\:spring_assignment=F\:\\apache-tomcat-8.0.52\\webapp\\spring_assignment
+#Wed Jul 04 16:42:38 ICT 2018
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Phalla\\.m2\\repository\\org\\springframework\\spring-web\\5.0.6.RELEASE\\spring-web-5.0.6.RELEASE.jar=F\:\\apache-tomcat-8.0.52\\webapps\\n05_spring_data_rdbms_mybatis\\WEB-INF\\lib\\spring-web-5.0.6.RELEASE.jar
+org.eclipse.jst.jee.server\:n05_spring_data_rdbms_mybatis=F\:\\apache-tomcat-8.0.52\\webapps\\n05_spring_data_rdbms_mybatis
