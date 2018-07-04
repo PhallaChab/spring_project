@@ -1,0 +1,5 @@
+package tos_shopping.spring.base.test;
+
+public class AbstractMapperTest {
+
+}

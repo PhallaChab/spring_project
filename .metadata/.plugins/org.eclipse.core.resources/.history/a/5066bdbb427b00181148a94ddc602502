@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<jsp:include page="app/css_link.jsp"></jsp:include>
+</head>
+
+<body>
+	<jsp:include page="app/left_menu.jsp"></jsp:include>
+	<div class="wrapper wrapper-content">
+		<jsp:include page="${pageName}.jsp"></jsp:include>
+	</div>
+	<script src="js/admin_menu_jquery.js"></script>
+</body>
+
+</html>

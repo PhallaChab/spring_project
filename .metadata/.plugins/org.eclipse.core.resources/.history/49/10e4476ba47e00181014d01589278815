@@ -1,0 +1,14 @@
+package org.apache.commons.io;
+
+import java.io.File;
+
+public class FilenameUtils {
+
+	public static final File EXTENSION_SEPARATOR = null;
+
+	public static String getExtension(String filename) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

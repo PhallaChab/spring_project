@@ -1,0 +1,10 @@
+package org.apache.commons.io;
+
+public class FilenameUtils {
+
+	public static String getExtension(String filename) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

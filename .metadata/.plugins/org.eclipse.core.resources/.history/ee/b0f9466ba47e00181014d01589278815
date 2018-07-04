@@ -1,0 +1,7 @@
+package org.apache.commons.vfs.provider.url;
+
+public class UrlFileName {
+
+	public static final String SEPARATOR_CHAR = null;
+
+}

@@ -1,0 +1,5 @@
+package org.apache.commons.vfs.provider.url;
+
+public class UrlFileName {
+
+}

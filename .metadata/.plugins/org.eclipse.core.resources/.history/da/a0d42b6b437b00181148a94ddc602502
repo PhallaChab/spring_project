@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<jsp:include page="app/css_link.jsp"></jsp:include>
+</head>
+
+<body>
+	<jsp:include page="app/left_menu.jsp"></jsp:include>
+	<!--content-->
+	<div class="content">
+		<jsp:include page="${pageName}.jsp"></jsp:include>
+	</div>
+	<jsp:include page="app/js_script.jsp"></jsp:include>
+</body>
+
+</html>
